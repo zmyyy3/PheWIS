@@ -48,4 +48,5 @@ use script Manhattan.R
 
 
 
-### contact: Mengyuan Zhang, mz59443@uga.edu
+# Contact
+Mengyuan Zhang, mz59443@uga.edu
