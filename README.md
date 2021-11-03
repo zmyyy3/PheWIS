@@ -14,8 +14,8 @@ Data resource: UK Biobank.
 
 ### Phenotype data
 
-  Use software "createUKBphenome" to transfer the phenotype data into phecode. "createUKBphenome" is an R software that used to transfer data from UK Biobank into phecode.
-  The path of file ukb34137.tab is /project/kylab/lab\_shared/UKB/pheno. If the others tables will be used, please make sure the table contains the following data: f.41270, f.40002, f.40006, f.40001, f.40013, f.41271, f.41201, f.41202, f.41203, f.41204, f.41205. These data are ICD9 and ICD10 used to generate phecode.
+  1. Use software "createUKBphenome" to transfer the phenotype data into phecode. "createUKBphenome" is an R software that used to transfer data from UK Biobank into phecode.
+  2. The path of file ukb34137.tab is /project/kylab/lab\_shared/UKB/pheno. If the others tables will be used, please make sure the table contains the following data: f.41270, f.40002, f.40006, f.40001, f.40013, f.41271, f.41201, f.41202, f.41203, f.41204, f.41205. These data are ICD9 and ICD10 used to generate phecode.
 
 ```bash
 cp ukb34137.tab phew.tab
