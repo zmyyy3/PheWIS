@@ -46,4 +46,6 @@ use script dophewis.R.
 ### Manhattan plots
 use script Manhattan.R
 
-contact: Mengyuan Zhang, mz59443@uga.edu
+
+
+### contact: Mengyuan Zhang, mz59443@uga.edu
